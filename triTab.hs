@@ -1,3 +1,4 @@
+trierTab [] = -125478
 trierTab [x] = x
 trierTab (x:xs) = if min < x
                     then min
